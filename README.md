@@ -1,6 +1,13 @@
-# Inventory Management system
+<div align="center">
+    <a>
+        <img alt="Sphere" src="https://avatars.githubusercontent.com/u/109333730?s=200&v=4" width="110"/>
+    </a>
+    <h1 style="margin-top:20px;">sft-take-home-task</h1>
+</div>
 
-## Overview
+<br/>
+
+# ⚪ Overview
 
 Your task is to build a backend service that simulates an inventory management system for a company providing cross-border liquidity services. The company operates liquidity pools in multiple currencies and manages currency transfers for users sending funds between different currencies.
 
